@@ -14,10 +14,10 @@ sidebar:
     # Sidebar links
     email: diana.monne@gmail.com
     phone: +598 97 493 864
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    linkedin: diana.monne
+    xing: #alandoe
+    github: #sharu725
+    pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: Spanish
@@ -33,27 +33,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am an engineer in informatic science, graduated from the University of Computer Science, Cuba, in 2009. 
+      Within the branch of informatics science, I specialize in Functional Analysis and Software Quality, 
+      performing tasks from the initial interview with the client, teamwork with the development team until the functional 
+      validation of the Software. I think that the quality of software products starts from understanding the business processes of the clients.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Engineer in Informatic Science
+      university: University of Compurer Science, Cuba
+      time: 2004 - 2009
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
