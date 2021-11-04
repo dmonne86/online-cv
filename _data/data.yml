@@ -26,13 +26,21 @@ sidebar:
   interests:
     - item: Ingeniería de Requisitos
       link:
-    - item: Usabilidad y Experiencia de Usuario
+    - item: Modelado UML
+      link:
+    - item: Modelado BPMN
+      link:
+    - item: Pruebas de Software
+      link:
+    - item: Diseño de Prototipos no funcionales
+      link:
+    - item: Metodologías ágiles
       link:
 
 career-profile:
   title: Resumen Profesional
   summary: |
-    Ingeniera en Ciencias Informáticas con más de 10 años de experiencia trabajando en equipos de desarrollo de soluciones informáticas y amplios conocimientos en 
+    Ingeniera en Ciencias Informáticas con más de 10 años de experiencia trabajando en equipos de desarrollo de soluciones informáticas y amplios conocimientos en
     ingeniería de software (ingeniería de requisitos y calidad de software).
     Buena comunicación y expresión oral en el equipo y en la interacción con clientes.
     Capacidad de trabajo colaborativo y versatilidad.
@@ -98,31 +106,20 @@ experiences:
       - Diseño de plan de clases y dictado de las asignaturas Ingeniería de Software y Gestión de Software.
       - Clientes finales:
         Empresas Estatales Cubanas y Empresas Venezolanas.
-        
+
   - role: QA Tester
     time: 2006 - 2009
     company: Universidad de las Ciencias Informáticas. La Habana, Cuba.
     details: |
       - Análisis y Diseño de casos de pruebas funcionales.
-      - Ejecución de pruebas funcionales. 
-      - Reporte y seguimiento de incidentes. 
-      - Diseño, implementación y ejecución de pruebas automatizadas. 
-      - Análisis, diseño y ejecución de pruebas de performance. 
-      - Informe de pruebas ejecutadas. 
-      - Monitoreo del cumplimiento de las acciones correctivas y el estado de las no conformidades. 
+      - Ejecución de pruebas funcionales.
+      - Reporte y seguimiento de incidentes.
+      - Diseño, implementación y ejecución de pruebas automatizadas.
+      - Análisis, diseño y ejecución de pruebas de performance.
+      - Informe de pruebas ejecutadas.
+      - Monitoreo del cumplimiento de las acciones correctivas y el estado de las no conformidades.
       - Clientes finales:
         Empresas Estatales Cubanas.
-
-skills:
-  title: Habilidades generales
-
-  toolset:
-    - name: Metodologías de Desarrollo de Software.
-    - name: Ingeniería de Requisitos.
-    - name: Lenguaje de modelado UML, BPMN.
-    - name: Pruebas de Software.
-
-
 
 
 footer: >
