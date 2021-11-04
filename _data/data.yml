@@ -7,8 +7,8 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Diana Monné
-  tagline: Analista Funcional - Senior QA
+  name: Diana Monné Roque
+  tagline: Analista Funcional - QA Tester
   avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -24,23 +24,18 @@ sidebar:
       level: Competencia Básica Profesional
 
   interests:
-    - item: Ingeniería de Software
-      link:
     - item: Ingeniería de Requisitos
       link:
     - item: Usabilidad y Experiencia de Usuario
-      link:
-    - item: Disfruto Cocinar.
       link:
 
 career-profile:
   title: Resumen Profesional
   summary: |
-    Ingeniera en Ciencias Informáticas, egresada de la Universidad de Ciencias Informáticas.
-    Vinculación con equipos de desarrollo de soluciones informáticas en empresas de Cuba, Venezuela y actualmente de Uruguay.
-    Marcadas habilidades de analista funcional y analista de pruebas.
-    Buena comunicación y expresión oral, así como experiencia con interacción con clientes.
-    Capacidad de trabajo en equipo.
+    Ingeniera en Ciencias Informáticas con experiencia trabajando en equipos de desarrollo de soluciones informáticas con amplios conocimientos en 
+    ingeniería de software (ingeniería de requisitos y calidad de software).
+    Buena comunicación y expresión oral en el equipo y en la interacción con clientes.
+    Capacidad de trabajo colaborativo y versatilidad.
 
 
 education:
@@ -49,15 +44,15 @@ education:
     time: 2004 - 2009
 
   - degree: ISTQB® Certified Tester, Foundation Level
-    university: Certificate Nro 17-CTFL-116950-03,  ISTQB - International Software Testing Qualifications Board
-    time: Julio 2017
+    university: Certificate Nro 17-CTFL-116950-03
+    time: 2017
 
 experiences:
   - role: Analista Funcional y QA Tester
     time: 2016 - Actualidad
     company: Interfase - ISA. Montevideo, Uruguay.
     details: |
-      - Aplicación de Metologías Agiles.
+      - Aplicación de Metologías Ágiles.
       - Relevamiento de requerimientos con el cliente.
       - Modelado de procesos de negocios.
       - Diseño de prototipos no funcionales para validación de requerimientos.
@@ -79,11 +74,11 @@ experiences:
     time: 2015 - 2016
     company: GeneXus Consulting. Montevideo, Uruguay.
     details: |
-      - Análisis y Diseño de casos de pruebas funcionales
-      - Ejecución de pruebas funcionales
-      - Reporte y seguimiento de incidentes
-      - Informe de pruebas ejecutadas
-      - Elaboración de Manuales de usuarios
+      - Análisis y Diseño de casos de pruebas funcionales.
+      - Ejecución de pruebas funcionales.
+      - Reporte y seguimiento de incidentes.
+      - Informe de pruebas ejecutadas.
+      - Elaboración de Manuales de usuarios.
       - Clientes finales:
         Clientes de GeneXus Consulting, empresas públicas del Uruguay.
 
@@ -91,46 +86,44 @@ experiences:
     time: 2009 - 2015
     company: Universidad de las Ciencias Informáticas. La Habana, Cuba.
     details: |
-      - Relevamiento de requisitos con el cliente
-      - Descripción de requisitos funcionales y casos de usos
-      - Análisis y Diseño de casos de pruebas funcionales
-      - Ejecución de pruebas funcionales
-      - Reporte y seguimiento de incidentes
+      - Aplicación de Metologías de Desarrollo de Software.
+      - Relevamiento de requisitos con el cliente.
+      - Descripción de requisitos funcionales y casos de usos.
+      - Análisis y Diseño de casos de pruebas funcionales.
+      - Ejecución de pruebas funcionales.
+      - Reporte y seguimiento de incidentes.
       - Aceptación del sistema en conjunto con el usuario final.
-      - Elaboración de Manuales de usuarios
+      - Elaboración de Manuales de usuarios.
       - Preparación y dictado de cursos de capacitación en el uso de Sistemas.
       - Diseño de plan de clases y dictado de las asignaturas Ingeniería de Software y Gestión de Software.
       - Clientes finales:
-        Empresas Estatales Cubanas y Empresas Venezolanas
+        Empresas Estatales Cubanas y Empresas Venezolanas.
         
   - role: QA Tester
     time: 2006 - 2009
     company: Universidad de las Ciencias Informáticas. La Habana, Cuba.
     details: |
-      - Análisis y Diseño de casos de pruebas funcionales
-      - Ejecución de pruebas funcionales 
-      - Reporte y seguimiento de incidentes 
-      - Diseño, implementación y ejecución de pruebas automatizadas 
-      - Análisis, diseño y ejecución de pruebas de performance 
-      - Informe de pruebas ejecutadas 
+      - Análisis y Diseño de casos de pruebas funcionales.
+      - Ejecución de pruebas funcionales. 
+      - Reporte y seguimiento de incidentes. 
+      - Diseño, implementación y ejecución de pruebas automatizadas. 
+      - Análisis, diseño y ejecución de pruebas de performance. 
+      - Informe de pruebas ejecutadas. 
       - Monitoreo del cumplimiento de las acciones correctivas y el estado de las no conformidades. 
       - Clientes finales:
-        Empresas Estatales Cubanas
+        Empresas Estatales Cubanas.
 
 skills:
-  title: Habilidades
+  title: Habilidades generales
 
   toolset:
-    - name: Metodologías Agiles de Desarrollo de Software
-    - name: Ingeniería de Requisitos
-      level: 99%
-    - name: Lenguaje de modelado UML, BPMN.
-    - name: Pruebas de Software
-      level: 99%
-      
-    - name: Herramientas Gestión de Pruebas
+    - name: - Metodologías de Desarrollo de Software.
+    - name: - Ingeniería de Requisitos.
+    - name: - Lenguaje de modelado UML, BPMN.
+    - name: - Pruebas de Software.
+
 
 
 
 footer: >
- Currículum Vitae  |  Diana Monné
+ Currículum Vitae  |  Diana Monné Roque
