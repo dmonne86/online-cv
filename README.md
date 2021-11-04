@@ -1,5 +1,5 @@
-# About
+# Acerca de Mi
 
-This my online cv resume
+Este es mi Curriculum Vitae
 
 Based on: [**Jekyll Themes**](http://jekyll-themes.com).
