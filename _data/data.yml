@@ -117,10 +117,10 @@ skills:
   title: Habilidades generales
 
   toolset:
-    - name: - Metodologías de Desarrollo de Software.
-    - name: - Ingeniería de Requisitos.
-    - name: - Lenguaje de modelado UML, BPMN.
-    - name: - Pruebas de Software.
+    - name: Metodologías de Desarrollo de Software.
+    - name: Ingeniería de Requisitos.
+    - name: Lenguaje de modelado UML, BPMN.
+    - name: Pruebas de Software.
 
 
 
