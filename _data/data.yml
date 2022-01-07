@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Diana Monné
-  tagline: Analista Funcional - QA Tester
+  tagline: Functional Analyst - QA Tester
   avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -17,38 +17,34 @@ sidebar:
   linkedin: diana-monné-roque
 
   languages:
-    - idiom: Español
-      level: Nativo
+    - idiom: Spanish
+      level: Native
 
     - idiom: English
-      level: Competencia Básica Profesional
+      level: Basic Professional Competence
 
   interests:
-    - item: Ingeniería de Requisitos
+    - item: Requirements Engineering
       link:
-    - item: Modelado UML
+    - item: UML Modeled
       link:
-    - item: Modelado BPMN
+    - item: BPMN Modeled
       link:
-    - item: Pruebas de Software
+    - item: Software Testing
       link:
-    - item: Diseño de Prototipos no funcionales
+    - item: Non-functional Prototype Design
       link:
-    - item: Metodologías ágiles
+    - item: Agile methodologies
       link:
 
 career-profile:
-  title: Resumen Profesional
+  title: Resume
   summary: |
-    Ingeniera en Ciencias Informáticas con más de 10 años de experiencia trabajando en equipos de desarrollo de soluciones informáticas y amplios conocimientos en
-    ingeniería de software (ingeniería de requisitos y calidad de software).
-    Buena comunicación y expresión oral en el equipo y en la interacción con clientes.
-    Capacidad de trabajo colaborativo y versatilidad.
-
+    Computer Science Engineer with more than 10 years of experience working in computer solutions development teams and extensive knowledge in software engineering (requirements engineering and software quality). Good communication and oral expression with the team and in the interaction with clients. Collaborative work capacity and versatility.
 
 education:
-  - degree: Ingeniera en Ciencias Informáticas
-    university: Universidad de las Ciencias Informáticas, UCI
+  - degree: Engineer's Degree
+    university: University of Informatic Sciences (UCI)
     time: 2004 - 2009
 
   - degree: ISTQB® Certified Tester, Foundation Level
@@ -56,55 +52,55 @@ education:
     time: 2017
 
 experiences:
-  - role: Analista Funcional y QA Tester
-    time: 2016 - Actualidad
+  - role: Functional Analyst, QA Tester
+    time: 2016 - Present
     company: Interfase - ISA. Montevideo, Uruguay.
     details: |
-      - Relevamiento de requerimientos con el cliente.
-      - Modelado de procesos de negocios.
-      - Diseño de prototipos no funcionales para validación de requerimientos.
-      - Descripción de requisitos funcionales en historias de usuario.
-      - Aceptación del sistema en conjunto con el usuario final.
-      - Realización de Demos Comerciales del producto a clientes potenciales.
-      - Análisis, diseño y ejecución de casos de pruebas funcionales.
-      - Reporte y seguimiento de incidentes.
-      - Diseño, implementación y ejecución de pruebas automatizadas.
-      - Análisis, diseño y ejecución de pruebas de performance.
-      - Elaboración de informes de pruebas ejecutadas y manuales de usuarios.
-      - Preparación y dictado de cursos de capacitación en el uso de Sistemas.
-      
+      - Survey of requirements with the client.
+      - Business process modeling.
+      - Design of non-functional prototypes for requirements validation.
+      - Description of functional requirements in user stories.
+      - Acceptance of the system in conjunction with the end user.
+      - Carrying out Commercial Demos of the product to potential clients.
+      - Analysis, design and execution of functional test cases.
+      - Reporting and monitoring of incidents.
+      - Design, implementation and execution of automated tests.
+      - Analysis, design and execution of performance tests.
+      - Preparation of reports of tests executed and user manuals.
+      - Preparation and delivery of training courses in the use of Systems.
+
   - role: QA Tester
     time: 2015 - 2016
     company: GeneXus Consulting. Montevideo, Uruguay.
     details: |
-      - Análisis, diseño y ejecución de casos de pruebas funcionales.
-      - Reporte y seguimiento de incidentes.
-      - Informe de pruebas ejecutadas.
-      - Elaboración de Manuales de usuarios.
+      - Analysis, design and execution of functional test cases.
+      - Reporting and monitoring of incidents.
+      - Report of tests executed.
+      - Preparation of User Manuals.
 
-  - role: Analista Funcional, QA Tester y Profesor instructor
+  - role: Functional Analyst, QA Tester and Instructor Professor
     time: 2009 - 2015
-    company: Universidad de las Ciencias Informáticas. La Habana, Cuba.
+    company: University of Informatic Sciences. La Habana, Cuba.
     details: |
-      - Relevamiento de requisitos con el cliente.
-      - Descripción de requisitos funcionales y casos de usos.
-      - Análisis, diseño y ejecución de casos de pruebas funcionales.
-      - Reporte y seguimiento de incidentes.
-      - Aceptación del sistema en conjunto con el usuario final.
-      - Elaboración de Manuales de usuarios.
-      - Preparación y dictado de cursos de capacitación en el uso de Sistemas.
-      - Diseño de plan de clases y dictado de las asignaturas Ingeniería de Software y Gestión de Software.
+      - Survey of requirements with the client.
+      - Description of functional requirements and use cases.
+      - Analysis, design and execution of functional test cases.
+      - Reporting and monitoring of incidents.
+      - Acceptance of the system in conjunction with the end user.
+      - Preparation of User Manuals.
+      - Preparation and delivery of training courses in the use of Systems.
+      - Design of the lesson plan and delivery of the subjects Software Engineering and Software Management.
 
   - role: QA Tester
     time: 2006 - 2009
-    company: Universidad de las Ciencias Informáticas. La Habana, Cuba.
+    company: University of Informatic Sciences. La Habana, Cuba.
     details: |
-      - Análisis, diseño y ejecución de casos de pruebas funcionales.
-      - Reporte y seguimiento de incidentes.
-      - Diseño, implementación y ejecución de pruebas automatizadas.
-      - Análisis, diseño y ejecución de pruebas de performance.
-      - Monitoreo del cumplimiento de las acciones correctivas y el estado de las no conformidades.
+      - Analysis, design and execution of functional test cases.
+      - Reporting and monitoring of incidents.
+      - Design, implementation and execution of automated tests.
+      - Analysis, design and execution of performance tests.
+      - Monitoring of compliance with corrective actions and the status of non-conformities.
 
 
 footer: >
- Currículum Vitae  |  Diana Monné Roque
+ Resume  |  Diana Monné Roque
